@@ -1,6 +1,6 @@
-# julbrs-portfolio
+# Henggao_Blog
 
-![site](https://user-images.githubusercontent.com/4988590/155229191-055a0c46-5462-4c52-894c-d5f722330891.png)
+
 
 This is my portfolio site (see [here](https://sidoine.org)). It is using the following starter:
 
