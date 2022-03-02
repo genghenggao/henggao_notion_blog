@@ -4,11 +4,12 @@
  * @Author: henggao
  * @Date: 2022-03-02 21:35:44
  * @LastEditors: henggao
- * @LastEditTime: 2022-03-02 21:39:39
+ * @LastEditTime: 2022-03-02 22:40:45
  */
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '5a5f47726906499684f172c916bf4a37',
+  // rootNotionPageId: '5a5f47726906499684f172c916bf4a37',
+  rootNotionPageId: '4f96eb673c5a4caa8618db4d45db84e7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -16,7 +17,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Henggao Blog',
-  domain: 'blog.genghenggao.top',
+  domain: 'henggao-notion-blog.vercel.app',
   author: 'Henggao Geng',
 
   // open graph metadata (optional)
@@ -40,7 +41,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'genghenggao/nextjs-notion-starter-kit',
+  utterancesGitHubRepo: 'genghenggao/henggao_notion_blog',
   utterancesGitHubLabel: 'Blog Comment',
 
   // whether or not to enable support for LQIP preview images (optional)
