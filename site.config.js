@@ -4,12 +4,12 @@
  * @Author: henggao
  * @Date: 2022-03-02 21:35:44
  * @LastEditors: henggao
- * @LastEditTime: 2022-03-02 22:40:45
+ * @LastEditTime: 2022-03-03 09:35:53
  */
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  // rootNotionPageId: '5a5f47726906499684f172c916bf4a37',
-  rootNotionPageId: '4f96eb673c5a4caa8618db4d45db84e7',
+  rootNotionPageId: '5a5f47726906499684f172c916bf4a37',
+  // rootNotionPageId: '4f96eb673c5a4caa8618db4d45db84e7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -17,7 +17,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Henggao Blog',
-  domain: 'henggao-notion-blog.vercel.app',
+  // domain: 'henggao-notion-blog.vercel.app',
+  domain: 'blog.henggao.top',
   author: 'Henggao Geng',
 
   // open graph metadata (optional)
