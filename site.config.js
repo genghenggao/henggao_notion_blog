@@ -4,7 +4,7 @@
  * @Author: henggao
  * @Date: 2022-03-02 21:35:44
  * @LastEditors: henggao
- * @LastEditTime: 2022-03-03 09:35:53
+ * @LastEditTime: 2022-03-03 09:44:31
  */
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
@@ -18,7 +18,7 @@ module.exports = {
   // basic site info (required)
   name: 'Henggao Blog',
   // domain: 'henggao-notion-blog.vercel.app',
-  domain: 'blog.henggao.top',
+  domain: 'blog.genghenggao.top',
   author: 'Henggao Geng',
 
   // open graph metadata (optional)
