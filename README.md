@@ -4,7 +4,7 @@
  * @Author: henggao
  * @Date: 2022-03-02 21:35:44
  * @LastEditors: henggao
- * @LastEditTime: 2022-03-03 09:50:40
+ * @LastEditTime: 2022-03-03 10:14:49
 -->
 # Henggao's HomePage
 
@@ -22,3 +22,5 @@ It's actually deployed with [Vercel](https://blog.genghenggao.top/) at no cost.
 - [Notion](https://www.notion.so/) is used as the backend. I was already a huge fan of the system, and now I have just a new set of pages that are used for this website.
 - [react-notion-x](https://github.com/NotionX/react-notion-x) is used to render Notion content in a React framework
 - [Next.js](https://nextjs.org/) is the React framework used to orchestrate the content
+
+Sincere thanks!
