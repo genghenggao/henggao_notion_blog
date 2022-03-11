@@ -10,7 +10,7 @@
 
 ![](img/HomePage.png)
 
-This is my portfolio site (see [here](https://sidoine.org)). It is using the following starter:
+This is my portfolio site (see [here](https://blog.genghenggao.top)). It is using the following starter:
 
 https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 
