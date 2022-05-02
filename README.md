@@ -4,18 +4,18 @@
  * @Author: henggao
  * @Date: 2022-03-02 21:35:44
  * @LastEditors: henggao
- * @LastEditTime: 2022-03-03 10:14:49
+ * @LastEditTime: 2022-03-11 14:52:52
 -->
 # Henggao's HomePage
 
 ![](img/HomePage.png)
 
-This is my portfolio site (see [here](https://sidoine.org)). It is using the following starter:
+This is my portfolio site (see [here](https://blog.genghenggao.top)). It is using the following starter:
 
 https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 
 
-It's actually deployed with [Vercel](https://blog.genghenggao.top/) at no cost.
+It's actually deployed with [Vercel](https://vercel.com/) at no cost.
 
 ## Tools used?
 
